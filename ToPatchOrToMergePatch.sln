@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31901.348
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonPatchExample", "JsonPatchExample\JsonPatchExample.csproj", "{21D8FD6A-BB3D-4E44-B7B5-31D8693381D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonMergePatchExample", "JsonMergePatchExample\JsonMergePatchExample.csproj", "{08CA2EF3-C967-44F6-9191-E1691CF6C723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D8FD6A-BB3D-4E44-B7B5-31D8693381D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D8FD6A-BB3D-4E44-B7B5-31D8693381D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D8FD6A-BB3D-4E44-B7B5-31D8693381D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D8FD6A-BB3D-4E44-B7B5-31D8693381D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CA2EF3-C967-44F6-9191-E1691CF6C723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CA2EF3-C967-44F6-9191-E1691CF6C723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CA2EF3-C967-44F6-9191-E1691CF6C723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CA2EF3-C967-44F6-9191-E1691CF6C723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4692F184-6F8D-4E7D-8DFC-00D9BB198294}
+	EndGlobalSection
+EndGlobal
